@@ -1,1 +1,32 @@
-
+{
+  "version": 1,
+  "data": [
+    {
+      "id": "broker1",
+      "image": "https://example.com/images/broker1.jpg",
+      "name": "محمد أحمد",
+      "verified": true,
+      "featured": true,
+      "rating": "4.8/5",
+      "rank": 10
+    },
+    {
+      "id": "broker2",
+      "image": "https://example.com/images/broker2.jpg",
+      "name": "سارة علي",
+      "verified": true,
+      "featured": false,
+      "rating": "4.5/5",
+      "rank": 8
+    },
+    {
+      "id": "broker3",
+      "image": "https://example.com/images/broker3.jpg",
+      "name": "خالد محمود",
+      "verified": false,
+      "featured": false,
+      "rating": "4.2/5",
+      "rank": 6
+    }
+  ]
+}
