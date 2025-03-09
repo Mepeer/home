@@ -3,7 +3,7 @@
   "data": [
     {
       "id": "broker1",
-      "image": "https://example.com/images/broker1.jpg",
+      "image": "img.jpg",
       "name": "محمد أحمد",
       "verified": true,
       "featured": true,
@@ -12,7 +12,7 @@
     },
     {
       "id": "broker2",
-      "image": "https://example.com/images/broker2.jpg",
+      "image": "img.jpg",
       "name": "سارة علي",
       "verified": true,
       "featured": false,
@@ -21,7 +21,7 @@
     },
     {
       "id": "broker3",
-      "image": "https://example.com/images/broker3.jpg",
+      "image": "img.jpg",
       "name": "خالد محمود",
       "verified": false,
       "featured": false,
